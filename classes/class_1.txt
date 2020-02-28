@@ -1,10 +1,15 @@
 pizza class
+
+attributes
 crust (string)
 sauce (string)
-toppings (string)
+cheese (string)
 diameter (integer)
+has_pepperoni (boolean)
 
+methods
 change_crust (changes crust to gluten free)
 change_sauce (changes sauce to white sauce)
-add_topping (adds extra toppings)
+add_cheese (changes cheese to extra)
 order_large (changes diameter to 18in)
+add_pepperoni (changes has_pepperoni to true)
