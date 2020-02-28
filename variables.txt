@@ -1,0 +1,9 @@
+var food = "apple pie"
+var is_delicious = true
+var food = "key lime pie"
+var num2 = 20
+var num7 = 70
+var quotient = num7 / num2
+var songs = ["ocean man","boys club","bananas and blow"]
+songs.shift();
+food.length();
