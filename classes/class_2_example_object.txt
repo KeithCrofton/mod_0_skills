@@ -1,0 +1,15 @@
+bacon egg and cheese
+
+attributes:
+bread: "wheat"
+eggs: 1
+meat: "bacon"
+sauce: "none"
+to_go: false
+
+methods:
+change_bread: bread = "croissant"
+add_egg: eggs = 2
+change_meat: meat = "sausage"
+change_sauce: sauce = "bbq"
+get_to_go: to_go =true 

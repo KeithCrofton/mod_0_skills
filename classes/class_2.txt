@@ -1,0 +1,15 @@
+breakfast sandwich class
+
+attributes:
+bread (string)
+eggs (integer)
+meat (string)
+sauce (string)
+to_go (boolean)
+
+methods:
+change_bread (changes the bread attribute)
+add_egg (changes eggs attribute to 2)
+change_meat (changes meat attribute)
+change_sauce (changes sauce attribute)
+get_to_go (sets to_go to true)

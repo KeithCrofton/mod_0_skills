@@ -1,13 +1,13 @@
 pizza class
 
-attributes
+attributes:
 crust (string)
 sauce (string)
 cheese (string)
 diameter (integer)
 has_pepperoni (boolean)
 
-methods
+methods:
 change_crust (changes crust to gluten free)
 change_sauce (changes sauce to white sauce)
 add_cheese (changes cheese to extra)
