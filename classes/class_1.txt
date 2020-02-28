@@ -1,0 +1,10 @@
+pizza class
+crust (string)
+sauce (string)
+toppings (string)
+diameter (integer)
+
+change_crust (changes crust to gluten free)
+change_sauce (changes sauce to white sauce)
+add_topping (adds extra toppings)
+order_large (changes diameter to 18in)
